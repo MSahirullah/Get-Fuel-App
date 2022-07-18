@@ -3,7 +3,7 @@
 A new conceptual Flutter project.
 
 UI designed by : Tharaka Harischandra ([Fuel Pass APP (Get Fuel) V0.1 - Behance](https://www.behance.net/gallery/148341631/Fuel-Pass-APP-%28Get-Fuel%29V01))
-This site was built using [GitHub Pages](https://pages.github.com/)
+
 <table>
   <tr>
     <th>Welcome Screen</th>
