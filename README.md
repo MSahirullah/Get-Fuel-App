@@ -13,10 +13,10 @@ UI designed by : Tharaka Harischandra ([Fuel Pass APP (Get Fuel) V0.1 - Behance]
     <th>Profile Screen </th>
   </tr>
   <tr>
-    <td><img src="https://github.com/MSahirullah/Get-Fuel-App/blob/main/assets/screenshots/ss1.png" width=300 ></td>
-    <td><img src="https://github.com/MSahirullah/Get-Fuel-App/blob/main/assets/screenshots/ss2.png" width=300></td>
-    <td><img src="https://github.com/MSahirullah/Get-Fuel-App/blob/main/assets/screenshots/ss3.png" width=300></td>
-    <td><img src="https://github.com/MSahirullah/Get-Fuel-App/blob/main/assets/screenshots/ss4.png" width=300></td>
-    <td><img src="https://github.com/MSahirullah/Get-Fuel-App/blob/main/assets/screenshots/ss5.png" width=300></td>
+    <td><img src="https://github.com/MSahirullah/Get-Fuel-App/blob/main/assets/screenshots/ss1.png" width=150 ></td>
+    <td><img src="https://github.com/MSahirullah/Get-Fuel-App/blob/main/assets/screenshots/ss2.png" width=150></td>
+    <td><img src="https://github.com/MSahirullah/Get-Fuel-App/blob/main/assets/screenshots/ss3.png" width=150></td>
+    <td><img src="https://github.com/MSahirullah/Get-Fuel-App/blob/main/assets/screenshots/ss4.png" width=150></td>
+    <td><img src="https://github.com/MSahirullah/Get-Fuel-App/blob/main/assets/screenshots/ss5.png" width=150></td>
   </tr>
  </table>
