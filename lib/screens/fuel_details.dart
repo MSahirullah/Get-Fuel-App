@@ -218,9 +218,16 @@ class FuelDetails extends StatelessWidget {
                                   flex: 5,
                                   child: Container(
                                     decoration: const BoxDecoration(
-                                      gradient: linearGradient_2,
-                                      borderRadius:
-                                          BorderRadius.all(Radius.circular(20)),
+                                      borderRadius: BorderRadius.all(
+                                        Radius.circular(200),
+                                      ),
+                                      color: Colors.white,
+                                      boxShadow: <BoxShadow>[
+                                        BoxShadow(
+                                          color: Color.fromARGB(66, 0, 0, 0),
+                                          blurRadius: 6,
+                                        ),
+                                      ],
                                     ),
                                     child: const FuelPrice(
                                       path: 'assets/images/cpt-logo.png',
@@ -235,9 +242,16 @@ class FuelDetails extends StatelessWidget {
                                   flex: 5,
                                   child: Container(
                                     decoration: const BoxDecoration(
-                                      gradient: linearGradient_2,
-                                      borderRadius:
-                                          BorderRadius.all(Radius.circular(20)),
+                                      borderRadius: BorderRadius.all(
+                                        Radius.circular(200),
+                                      ),
+                                      color: Colors.white,
+                                      boxShadow: <BoxShadow>[
+                                        BoxShadow(
+                                          color: Color.fromARGB(66, 0, 0, 0),
+                                          blurRadius: 6,
+                                        ),
+                                      ],
                                     ),
                                     child: const FuelPrice(
                                       path: 'assets/images/ioc-logo.png',
@@ -247,7 +261,7 @@ class FuelDetails extends StatelessWidget {
                                 ),
                               ],
                             ),
-                            const SizedBox(height: 15),
+                            const SizedBox(height: 20),
                             Row(
                               children: const [
                                 Text(
@@ -268,9 +282,16 @@ class FuelDetails extends StatelessWidget {
                                   flex: 5,
                                   child: Container(
                                     decoration: const BoxDecoration(
-                                      gradient: linearGradient_2,
-                                      borderRadius:
-                                          BorderRadius.all(Radius.circular(20)),
+                                      borderRadius: BorderRadius.all(
+                                        Radius.circular(200),
+                                      ),
+                                      color: Colors.white,
+                                      boxShadow: <BoxShadow>[
+                                        BoxShadow(
+                                          color: Color.fromARGB(66, 0, 0, 0),
+                                          blurRadius: 6,
+                                        ),
+                                      ],
                                     ),
                                     child: const FuelPrice(
                                       path: 'assets/images/cpt-logo.png',
@@ -285,13 +306,20 @@ class FuelDetails extends StatelessWidget {
                                   flex: 5,
                                   child: Container(
                                     decoration: const BoxDecoration(
-                                      gradient: linearGradient_2,
-                                      borderRadius:
-                                          BorderRadius.all(Radius.circular(20)),
+                                      borderRadius: BorderRadius.all(
+                                        Radius.circular(200),
+                                      ),
+                                      color: Colors.white,
+                                      boxShadow: <BoxShadow>[
+                                        BoxShadow(
+                                          color: Color.fromARGB(66, 0, 0, 0),
+                                          blurRadius: 6,
+                                        ),
+                                      ],
                                     ),
                                     child: const FuelPrice(
                                       path: 'assets/images/ioc-logo.png',
-                                      price: '470 LKR',
+                                      price: '520 LKR',
                                     ),
                                   ),
                                 ),
