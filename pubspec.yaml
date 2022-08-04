@@ -35,6 +35,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   proste_bezier_curve: ^2.0.2
   syncfusion_flutter_gauges: ^20.2.38
+  google_maps_flutter: ^2.1.10
 
 
 dev_dependencies:

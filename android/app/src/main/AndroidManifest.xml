@@ -4,6 +4,10 @@
         android:label="get_fuel_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
+
+         <meta-data android:name="com.google.android.geo.API_KEY"
+               android:value="AIzaSyB7WvNcMot2gNhmM2FG23hfoDAbyFkN59w"/>
+               
         <activity
             android:name=".MainActivity"
             android:exported="true"
